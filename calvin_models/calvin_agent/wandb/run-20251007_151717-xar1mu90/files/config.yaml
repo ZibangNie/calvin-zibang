@@ -1,0 +1,27 @@
+_wandb:
+    value:
+        cli_version: 0.22.1
+        e:
+            k7hq4rxi69xwjfolwjtareosr40xi6yn:
+                email: 2542881@dundee.ac.uk
+                executable: /root/miniconda3/bin/python
+                git:
+                    commit: fa03f01f19c65920e18cf37398a9ce859274af76
+                    remote: git@github.com:ZibangNie/calvin-zibang.git
+                host: autodl-container-484b438820-de6f9dcb
+                os: Linux-6.2.0-26-generic-x86_64-with-glibc2.35
+                program: <stdin>
+                python: CPython 3.10.8
+                root: /root/autodl-tmp/work/calvin/calvin_models/calvin_agent
+                startedAt: "2025-10-07T07:17:17.409700Z"
+                writerId: k7hq4rxi69xwjfolwjtareosr40xi6yn
+        m: []
+        python_version: 3.10.8
+        t:
+            "3":
+                - 2
+                - 13
+            "4": 3.10.8
+            "5": 0.22.1
+            "12": 0.22.1
+            "13": linux-x86_64

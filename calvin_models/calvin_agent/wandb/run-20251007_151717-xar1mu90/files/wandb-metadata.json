@@ -1,0 +1,15 @@
+{
+  "os":  "Linux-6.2.0-26-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.8",
+  "startedAt":  "2025-10-07T07:17:17.409700Z",
+  "program":  "<stdin>",
+  "git":  {
+    "remote":  "git@github.com:ZibangNie/calvin-zibang.git",
+    "commit":  "fa03f01f19c65920e18cf37398a9ce859274af76"
+  },
+  "email":  "2542881@dundee.ac.uk",
+  "root":  "/root/autodl-tmp/work/calvin/calvin_models/calvin_agent",
+  "host":  "autodl-container-484b438820-de6f9dcb",
+  "executable":  "/root/miniconda3/bin/python",
+  "writerId":  "k7hq4rxi69xwjfolwjtareosr40xi6yn"
+}
